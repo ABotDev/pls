@@ -1,7 +1,7 @@
-2020-07-29 13:17:15 - info [app.js]: Initializing...
-2020-07-29 13:17:15 - info [app.js]: Loading commands...
-2020-07-29 13:17:16 - warn [app.js]: yomomma.js failed to load
-2020-07-29 13:17:16 - info [app.js]: 
+2020-07-29 13:38:37 - info [app.js]: Initializing...
+2020-07-29 13:38:37 - info [app.js]: Loading commands...
+2020-07-29 13:38:38 - warn [app.js]: yomomma.js failed to load
+2020-07-29 13:38:38 - info [app.js]: 
 .-------------------------------------------------------------------------------.
 |                                   Commands                                    |
 |-------------------------------------------------------------------------------|
@@ -108,41 +108,41 @@
 | position.js           | pos                                 | Points | pass   |
 | totalpoints.js        | totalp, tp                          | Points | pass   |
 '-------------------------------------------------------------------------------'
-2020-07-29 13:17:16 - info [app.js]: 9 event(s) found...
-2020-07-29 13:17:16 - info [app.js]: Loading event: error
-2020-07-29 13:17:16 - info [app.js]: Loading event: guildCreate
-2020-07-29 13:17:16 - info [app.js]: Loading event: guildDelete
-2020-07-29 13:17:16 - info [app.js]: Loading event: guildMemberAdd
-2020-07-29 13:17:16 - info [app.js]: Loading event: guildMemberRemove
-2020-07-29 13:17:16 - info [app.js]: Loading event: guildUpdate
-2020-07-29 13:17:16 - info [app.js]: Loading event: message
-2020-07-29 13:17:16 - info [app.js]: Loading event: ready
-2020-07-29 13:17:16 - info [app.js]: Loading event: voiceStateUpdate
-2020-07-29 13:17:16 - info [app.js]: 24 topic(s) found...
-2020-07-29 13:17:16 - info [app.js]: Loading topic: anime
-2020-07-29 13:17:16 - info [app.js]: Loading topic: cars
-2020-07-29 13:17:16 - info [app.js]: Loading topic: darksouls
-2020-07-29 13:17:16 - info [app.js]: Loading topic: dota2abilities
-2020-07-29 13:17:16 - info [app.js]: Loading topic: dota2items
-2020-07-29 13:17:16 - info [app.js]: Loading topic: elements
-2020-07-29 13:17:16 - info [app.js]: Loading topic: finalfantasy
-2020-07-29 13:17:16 - info [app.js]: Loading topic: gameofthrones
-2020-07-29 13:17:16 - info [app.js]: Loading topic: greekmyth
-2020-07-29 13:17:16 - info [app.js]: Loading topic: harrypotter
-2020-07-29 13:17:16 - info [app.js]: Loading topic: leagueoflegends
-2020-07-29 13:17:16 - info [app.js]: Loading topic: leagueults
-2020-07-29 13:17:16 - info [app.js]: Loading topic: overwatch
-2020-07-29 13:17:16 - info [app.js]: Loading topic: slogans
-2020-07-29 13:17:16 - info [app.js]: Loading topic: sports
-2020-07-29 13:17:16 - info [app.js]: Loading topic: starwars
-2020-07-29 13:17:16 - info [app.js]: Loading topic: uscapitals
-2020-07-29 13:17:16 - info [app.js]: Loading topic: usflags
-2020-07-29 13:17:16 - info [app.js]: Loading topic: usmap
-2020-07-29 13:17:16 - info [app.js]: Loading topic: usstateabbreviations
-2020-07-29 13:17:16 - info [app.js]: Loading topic: videogames
-2020-07-29 13:17:16 - info [app.js]: Loading topic: worldcapitals
-2020-07-29 13:17:16 - info [app.js]: Loading topic: worldflags
-2020-07-29 13:17:16 - info [app.js]: Loading topic: worldmap
-2020-07-29 13:17:18 - info [app.js]: Updating database and scheduling jobs...
-2020-07-29 13:17:18 - info [app.js]: Martiz is now online
-2020-07-29 13:17:18 - info [app.js]: Matriz is running on 9 server(s)
+2020-07-29 13:38:38 - info [app.js]: 9 event(s) found...
+2020-07-29 13:38:38 - info [app.js]: Loading event: error
+2020-07-29 13:38:38 - info [app.js]: Loading event: guildCreate
+2020-07-29 13:38:38 - info [app.js]: Loading event: guildDelete
+2020-07-29 13:38:38 - info [app.js]: Loading event: guildMemberAdd
+2020-07-29 13:38:38 - info [app.js]: Loading event: guildMemberRemove
+2020-07-29 13:38:38 - info [app.js]: Loading event: guildUpdate
+2020-07-29 13:38:38 - info [app.js]: Loading event: message
+2020-07-29 13:38:38 - info [app.js]: Loading event: ready
+2020-07-29 13:38:38 - info [app.js]: Loading event: voiceStateUpdate
+2020-07-29 13:38:38 - info [app.js]: 24 topic(s) found...
+2020-07-29 13:38:38 - info [app.js]: Loading topic: anime
+2020-07-29 13:38:39 - info [app.js]: Loading topic: cars
+2020-07-29 13:38:39 - info [app.js]: Loading topic: darksouls
+2020-07-29 13:38:39 - info [app.js]: Loading topic: dota2abilities
+2020-07-29 13:38:39 - info [app.js]: Loading topic: dota2items
+2020-07-29 13:38:39 - info [app.js]: Loading topic: elements
+2020-07-29 13:38:39 - info [app.js]: Loading topic: finalfantasy
+2020-07-29 13:38:39 - info [app.js]: Loading topic: gameofthrones
+2020-07-29 13:38:39 - info [app.js]: Loading topic: greekmyth
+2020-07-29 13:38:39 - info [app.js]: Loading topic: harrypotter
+2020-07-29 13:38:39 - info [app.js]: Loading topic: leagueoflegends
+2020-07-29 13:38:39 - info [app.js]: Loading topic: leagueults
+2020-07-29 13:38:39 - info [app.js]: Loading topic: overwatch
+2020-07-29 13:38:39 - info [app.js]: Loading topic: slogans
+2020-07-29 13:38:39 - info [app.js]: Loading topic: sports
+2020-07-29 13:38:39 - info [app.js]: Loading topic: starwars
+2020-07-29 13:38:39 - info [app.js]: Loading topic: uscapitals
+2020-07-29 13:38:39 - info [app.js]: Loading topic: usflags
+2020-07-29 13:38:39 - info [app.js]: Loading topic: usmap
+2020-07-29 13:38:39 - info [app.js]: Loading topic: usstateabbreviations
+2020-07-29 13:38:39 - info [app.js]: Loading topic: videogames
+2020-07-29 13:38:39 - info [app.js]: Loading topic: worldcapitals
+2020-07-29 13:38:39 - info [app.js]: Loading topic: worldflags
+2020-07-29 13:38:39 - info [app.js]: Loading topic: worldmap
+2020-07-29 13:38:40 - info [app.js]: Updating database and scheduling jobs...
+2020-07-29 13:38:40 - info [app.js]: Martiz is now online
+2020-07-29 13:38:40 - info [app.js]: Matriz is running on 9 server(s)
