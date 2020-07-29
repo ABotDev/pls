@@ -1,0 +1,148 @@
+2020-07-29 13:17:15 - info [app.js]: Initializing...
+2020-07-29 13:17:15 - info [app.js]: Loading commands...
+2020-07-29 13:17:16 - warn [app.js]: yomomma.js failed to load
+2020-07-29 13:17:16 - info [app.js]: 
+.-------------------------------------------------------------------------------.
+|                                   Commands                                    |
+|-------------------------------------------------------------------------------|
+|         File          |               Aliases               |  Type  | Status |
+|-----------------------|-------------------------------------|--------|--------|
+| disable.js            | dis                                 | Admin  | pass   |
+| enable.js             | en                                  | Admin  | pass   |
+| saycrownmessage.js    | saycm                               | Admin  | pass   |
+| sayleavemessage.js    | saylm                               | Admin  | pass   |
+| saywelcomemessage.js  | saywm                               | Admin  | pass   |
+| setadminrole.js       | setar, sar                          | Admin  | pass   |
+| setautorole.js        | setaur, saur                        | Admin  | pass   |
+| setcommandpoints.js   | setcp, scp                          | Admin  | pass   |
+| setcrownchannel.js    | setcc, scc                          | Admin  | pass   |
+| setcrownmessage.js    | setcm, scm                          | Admin  | pass   |
+| setcrownrole.js       | setcr, scr                          | Admin  | pass   |
+| setcrownschedule.js   | setcs, scs                          | Admin  | pass   |
+| setdefaultchannel.js  | setdc, sdc                          | Admin  | pass   |
+| setleavechannel.js    | setlc, slc                          | Admin  | pass   |
+| setleavemessage.js    | setlm, slm                          | Admin  | pass   |
+| setmessagepoints.js   | setmp, smp                          | Admin  | pass   |
+| setmodlogchannel.js   | setmlc, smlc                        | Admin  | pass   |
+| setmodrole.js         | setmr, smr                          | Admin  | pass   |
+| setmuterole.js        | setmur, smur                        | Admin  | pass   |
+| setprefix.js          | setp, sp                            | Admin  | pass   |
+| settings.js           | config, set, s                      | Admin  | pass   |
+| setvoicepoints.js     | setvp, svp                          | Admin  | pass   |
+| setwelcomechannel.js  | setwc, swc                          | Admin  | pass   |
+| setwelcomemessage.js  | setwm, swm                          | Admin  | pass   |
+| changecolor.js        | changecol, changec, cc              | Color  | pass   |
+| colors.js             | cols, c                             | Color  | pass   |
+| createcolor.js        | createcol, createc, crc             | Color  | pass   |
+| 8ball.js              | fortune                             | Fun    | pass   |
+| bird.js               |                                     | Fun    | pass   |
+| cat.js                | kitten, kitty                       | Fun    | pass   |
+| catfact.js            | cf                                  | Fun    | pass   |
+| coinflip.js           | cointoss, coin, flip                | Fun    | pass   |
+| dog.js                | puppy, pup                          | Fun    | pass   |
+| dogfact.js            | df                                  | Fun    | pass   |
+| duck.js               |                                     | Fun    | pass   |
+| fox.js                |                                     | Fun    | pass   |
+| meme.js               |                                     | Fun    | pass   |
+| roll.js               | dice, r                             | Fun    | pass   |
+| rps.js                |                                     | Fun    | pass   |
+| say.js                |                                     | Fun    | pass   |
+| shibe.js              |                                     | Fun    | pass   |
+| solotrivia.js         | solotriv, striv, solot, st          | Fun    | pass   |
+| thouart.js            | elizabethan, ta                     | Fun    | pass   |
+| topics.js             | triviatopics, categories, ts        | Fun    | pass   |
+| trivia.js             | triv, t                             | Fun    | pass   |
+| yesno.js              | yn                                  | Fun    | pass   |
+| yomomma.js            |                                     |        | fail   |
+| youtube.js            | yt                                  | Fun    | pass   |
+| admins.js             |                                     | Info   | pass   |
+| aliases.js            | alias, ali                          | Info   | pass   |
+| avatar.js             | profilepic, pic, a                  | Info   | pass   |
+| botinfo.js            | bot, bi                             | Info   | pass   |
+| emojis.js             | e                                   | Info   | pass   |
+| findid.js             | find, id                            | Info   | pass   |
+| gallery.js            | art                                 | Info   | pass   |
+| help.js               |                                     | Info   | pass   |
+| inviteme.js           | invite, invme, im                   | Info   | pass   |
+| members.js            | memberstatus                        | Info   | pass   |
+| mods.js               |                                     | Info   | pass   |
+| permissions.js        | perms                               | Info   | pass   |
+| ping.js               |                                     | Info   | pass   |
+| prefix.js             | pre                                 | Info   | pass   |
+| servericon.js         | icon, i                             | Info   | pass   |
+| serverinfo.js         | server, si                          | Info   | pass   |
+| uptime.js             | up                                  | Info   | pass   |
+| userinfo.js           | user, ui                            | Info   | pass   |
+| feedback.js           | fb                                  | Misc   | pass   |
+| reportbug.js          | bugreport, report, bug, rb, br      | Misc   | pass   |
+| addrole.js            | addr, ar                            | Mod    | pass   |
+| ban.js                |                                     | Mod    | pass   |
+| clearwarns.js         |                                     | Mod    | pass   |
+| kick.js               |                                     | Mod    | pass   |
+| mute.js               |                                     | Mod    | pass   |
+| purge.js              | clear                               | Mod    | pass   |
+| purgebot.js           | clearbot                            | Mod    | pass   |
+| removerole.js         | remover, rr                         | Mod    | pass   |
+| setnickname.js        | setnn, snn                          | Mod    | pass   |
+| slowmode.js           | slow, sm                            | Mod    | pass   |
+| softban.js            |                                     | Mod    | pass   |
+| unban.js              |                                     | Mod    | pass   |
+| unmute.js             |                                     | Mod    | pass   |
+| warn.js               |                                     | Mod    | pass   |
+| warnpurge.js          | purgewarn                           | Mod    | pass   |
+| warns.js              | warnings                            | Mod    | pass   |
+| blast.js              |                                     | Owner  | pass   |
+| owneraliases.js       | ownerali, oali, oa                  | Owner  | pass   |
+| ownerhelp.js          | ownercommands, ohelp, oh            | Owner  | pass   |
+| servers.js            | servs                               | Owner  | pass   |
+| wipeallpoints.js      | wipeap, wap                         | Owner  | pass   |
+| wipealltotalpoints.js | wipeatp, watp                       | Owner  | pass   |
+| wipepoints.js         | wipep, wp                           | Owner  | pass   |
+| wipetotalpoints.js    | wipetp, wtp                         | Owner  | pass   |
+| crown.js              | crowned                             | Points | pass   |
+| currentpoints.js      | currpoints, cp, p                   | Points | pass   |
+| explainpoints.js      | explainp, ep, howtopoints, h2points | Points | pass   |
+| givepoints.js         | gp                                  | Points | pass   |
+| leaderboard.js        | top, lb, rankings                   | Points | pass   |
+| pointsper.js          | pointsp, pp                         | Points | pass   |
+| position.js           | pos                                 | Points | pass   |
+| totalpoints.js        | totalp, tp                          | Points | pass   |
+'-------------------------------------------------------------------------------'
+2020-07-29 13:17:16 - info [app.js]: 9 event(s) found...
+2020-07-29 13:17:16 - info [app.js]: Loading event: error
+2020-07-29 13:17:16 - info [app.js]: Loading event: guildCreate
+2020-07-29 13:17:16 - info [app.js]: Loading event: guildDelete
+2020-07-29 13:17:16 - info [app.js]: Loading event: guildMemberAdd
+2020-07-29 13:17:16 - info [app.js]: Loading event: guildMemberRemove
+2020-07-29 13:17:16 - info [app.js]: Loading event: guildUpdate
+2020-07-29 13:17:16 - info [app.js]: Loading event: message
+2020-07-29 13:17:16 - info [app.js]: Loading event: ready
+2020-07-29 13:17:16 - info [app.js]: Loading event: voiceStateUpdate
+2020-07-29 13:17:16 - info [app.js]: 24 topic(s) found...
+2020-07-29 13:17:16 - info [app.js]: Loading topic: anime
+2020-07-29 13:17:16 - info [app.js]: Loading topic: cars
+2020-07-29 13:17:16 - info [app.js]: Loading topic: darksouls
+2020-07-29 13:17:16 - info [app.js]: Loading topic: dota2abilities
+2020-07-29 13:17:16 - info [app.js]: Loading topic: dota2items
+2020-07-29 13:17:16 - info [app.js]: Loading topic: elements
+2020-07-29 13:17:16 - info [app.js]: Loading topic: finalfantasy
+2020-07-29 13:17:16 - info [app.js]: Loading topic: gameofthrones
+2020-07-29 13:17:16 - info [app.js]: Loading topic: greekmyth
+2020-07-29 13:17:16 - info [app.js]: Loading topic: harrypotter
+2020-07-29 13:17:16 - info [app.js]: Loading topic: leagueoflegends
+2020-07-29 13:17:16 - info [app.js]: Loading topic: leagueults
+2020-07-29 13:17:16 - info [app.js]: Loading topic: overwatch
+2020-07-29 13:17:16 - info [app.js]: Loading topic: slogans
+2020-07-29 13:17:16 - info [app.js]: Loading topic: sports
+2020-07-29 13:17:16 - info [app.js]: Loading topic: starwars
+2020-07-29 13:17:16 - info [app.js]: Loading topic: uscapitals
+2020-07-29 13:17:16 - info [app.js]: Loading topic: usflags
+2020-07-29 13:17:16 - info [app.js]: Loading topic: usmap
+2020-07-29 13:17:16 - info [app.js]: Loading topic: usstateabbreviations
+2020-07-29 13:17:16 - info [app.js]: Loading topic: videogames
+2020-07-29 13:17:16 - info [app.js]: Loading topic: worldcapitals
+2020-07-29 13:17:16 - info [app.js]: Loading topic: worldflags
+2020-07-29 13:17:16 - info [app.js]: Loading topic: worldmap
+2020-07-29 13:17:18 - info [app.js]: Updating database and scheduling jobs...
+2020-07-29 13:17:18 - info [app.js]: Martiz is now online
+2020-07-29 13:17:18 - info [app.js]: Matriz is running on 9 server(s)

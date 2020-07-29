@@ -2,11 +2,6 @@ const Discord = require('discord.js');
 const { readdir, readdirSync } = require('fs');
 const { join, resolve } = require('path');
 const AsciiTable = require('ascii-table');
-const express = require('express');
-const app = express();
-require('./uptime.js');
-app.listen(4000)
-
 /**
  * Calypso's custom client
  * @extends Discord.Client
